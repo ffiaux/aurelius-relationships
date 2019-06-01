@@ -1,0 +1,18 @@
+unit Interfaces;
+
+interface
+
+type
+  IAluno = interface
+
+  end;
+
+  IEndereco = interface
+
+  end;
+
+
+
+implementation
+
+end.
